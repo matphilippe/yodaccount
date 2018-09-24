@@ -36,9 +36,7 @@ That's something else that may help: focus your budgetting efforts on money. If 
 #### Accounts
 
 To us, Accounts are places where you store money. That's it.   
-The money you store in there can have different purposes of course! However, we will try to keep things as simple as possible: for each possible use of our money, we associate one (or a few) accounts to store money for this usage. Examples: 
-1. The money to be spent on the bills should be found on a spendings account,
-2. The money that is being saved for buying a house with your spouse should be split 50/50 on both your saving accounts.
+
 
 #### Categories
 
@@ -47,6 +45,11 @@ These are the possible uses for your money. Classical spending categories are "b
 
 
 #### Couplings
+
+Money is stored into accounts to be used according to categories. Fine. 
+How do we make sure that the money allocated to categories does match that on our accounts?
+Money on our account is real, tangible. Money allocated is... well... who is to forbid you to spent too much on restaurants? Allocating your money 
+
 
 ### Bookkeeping
 ---------------
